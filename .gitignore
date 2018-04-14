@@ -1,0 +1,25 @@
+# Gradle
+gradle-app.setting
+.gradletasknamecache
+.gradle/
+build/
+bin/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Netbeans
+build.xml
+manifest.mf
+nbproject/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode
+.vscode/
